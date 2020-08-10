@@ -1,5 +1,5 @@
 <div align="center">
 
-  ![portrait](./me.png)
+  ![portrait](https://github.com/simskij/simskij/raw/master/me.png)
 
 </div>
