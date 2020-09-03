@@ -8,7 +8,7 @@ metadata:
   pronouns:
     - he
     - him
-  labels:
+  traits:
     - gopher
     - developer advocate
     - public speaker
